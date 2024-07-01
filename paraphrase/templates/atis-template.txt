@@ -1,0 +1,13 @@
+Given an utterance, give a short single sentence descriptive paraphrase of what the user is asking. Do not add additional information.
+
+sentence: "what is the baggage allowance for delta airlines?"
+description: user is asking about the bagage allowance for delta airlines
+
+sentence: "can you show me what flights are available from new york to los angeles on may 5th?"
+description: user is asking for flights from new york to los angeles on may 5th
+
+sentence: "how early do i need to check in for my international flight to tokyo?"
+description: user is asking how early they need to check in for a flight to tokyo
+
+sentence: "{}"
+description:

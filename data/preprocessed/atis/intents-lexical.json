@@ -1,0 +1,20 @@
+{
+    "abbreviation": "Abbreviation",
+    "aircraft": "Aircraft",
+    "airfare": "Airfare",
+    "airline": "Airline",
+    "airport": "Airport",
+    "capacity": "Capacity",
+    "cheapest": "Cheapest",
+    "city": "City",
+    "day_name": "Day Name",
+    "distance": "Distance",
+    "flight": "Flight",
+    "flight_no": "Flight No",
+    "flight_time": "Flight Time",
+    "ground_fare": "Ground Fare",
+    "ground_service": "Ground Service",
+    "meal": "Meal",
+    "quantity": "Quantity",
+    "restriction": "Restriction"
+}

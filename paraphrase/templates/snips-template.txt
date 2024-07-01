@@ -1,0 +1,13 @@
+Given an utterance, give a short single sentence descriptive paraphrase of what the user is asking. Do not add additional information.
+
+sentence: "show me the current temperature in los angeles"
+description: user is asking about for the current temperature in los angeles
+
+sentence: "i'd like to reserve a spot for a birthday dinner at a japanese restaurant next wednesday"
+description: user is asking to book a japanese restaurant next wednesday
+
+sentence: "queue up 'old town road' by lil nas x on my speakers"
+description: user is asking to play 'old town road' by lil nas x
+
+sentence: "{}"
+description:

@@ -1,0 +1,13 @@
+Given an utterance, describe what the user is asking.
+
+sentence: "set an alarm for every weekday at 7 am"
+description: user is asking to set an alarm for every weekday at 7am
+
+sentence: "can you show me the step-by-step instructions to bake chocolate chip cookies"
+description: user is asking for recipe for chocolate chip cookies
+
+sentence: "could you please tell me what time it is now"
+description: user is asking for the current time
+
+sentence: "{}"
+description:

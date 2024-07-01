@@ -1,0 +1,152 @@
+{
+    "music": {
+        "desc": "user is making a request about music",
+        "intents": [
+            "music_dislikeness",
+            "music_likeness",
+            "music_query",
+            "music_settings"
+        ]
+    },
+    "weather": {
+        "desc": "user is asking or making a request about weather",
+        "intents": [
+            "weather_query"
+        ]
+    },
+    "qa": {
+        "desc": "user is asking a question about definition, currency exchange, maths, facts or stock",
+        "intents": [
+            "qa_definition",
+            "qa_currency",
+            "qa_maths",
+            "qa_factoid",
+            "qa_stock"
+        ]
+    },
+    "cooking": {
+        "desc": "user is asking or making a request about cooking",
+        "intents": [
+            "cooking_recipe",
+            "cooking_query"
+        ]
+    },
+    "iot": {
+        "desc": "user is asking or making a request about wemo, cleaning, lights, or coffee",
+        "intents": [
+            "iot_wemo_on",
+            "iot_cleaning",
+            "iot_hue_lightup",
+            "iot_hue_lightchange",
+            "iot_hue_lighton",
+            "iot_wemo_off",
+            "iot_hue_lightoff",
+            "iot_coffee",
+            "iot_hue_lightdim"
+        ]
+    },
+    "transport": {
+        "desc": "user is asking or making a request about transport",
+        "intents": [
+            "transport_ticket",
+            "transport_taxi",
+            "transport_query",
+            "transport_traffic"
+        ]
+    },
+    "audio": {
+        "desc": "user is asking or making a request about audio or volume",
+        "intents": [
+            "audio_volume_mute",
+            "audio_volume_up",
+            "audio_volume_other",
+            "audio_volume_down"
+        ]
+    },
+    "lists": {
+        "desc": "user is asking or making a request about a list",
+        "intents": [
+            "lists_remove",
+            "lists_createoradd",
+            "lists_query"
+        ]
+    },
+    "news": {
+        "desc": "user is askig a question about the news",
+        "intents": [
+            "news_query"
+        ]
+    },
+    "takeaway": {
+        "desc": "userr is asking or making a request about takeaway food",
+        "intents": [
+            "takeaway_query",
+            "takeaway_order"
+        ]
+    },
+    "calendar": {
+        "desc": "user is asking or making a request about calendar or schedule",
+        "intents": [
+            "calendar_query",
+            "calendar_set",
+            "calendar_remove"
+        ]
+    },
+    "social": {
+        "desc": "user is asking or making a request about social media",
+        "intents": [
+            "social_query",
+            "social_post"
+        ]
+    },
+    "recommendation": {
+        "desc": "user is asking for recommendations on location, movies or events",
+        "intents": [
+            "recommendation_locations",
+            "recommendation_movies",
+            "recommendation_events"
+        ]
+    },
+    "alarm": {
+        "desc": "user is asking or making a request about alarms",
+        "intents": [
+            "alarm_remove",
+            "alarm_query",
+            "alarm_set"
+        ]
+    },
+    "datetime": {
+        "desc": "user is asking or making a request about date or time",
+        "intents": [
+            "datetime_query",
+            "datetime_convert"
+        ]
+    },
+    "play": {
+        "desc": "user is asking to play a game, radio, audiobook, podcast or music",
+        "intents": [
+            "play_game",
+            "play_radio",
+            "play_audiobook",
+            "play_podcasts",
+            "play_music"
+        ]
+    },
+    "general": {
+        "desc": "user is asking for a joke, or making smalltalk, chitchat",
+        "intents": [
+            "general_joke",
+            "general_quirky",
+            "general_greet"
+        ]
+    },
+    "email": {
+        "desc": "user is asking or making a request about email",
+        "intents": [
+            "email_sendemail",
+            "email_querycontact",
+            "email_addcontact",
+            "email_query"
+        ]
+    }
+}
